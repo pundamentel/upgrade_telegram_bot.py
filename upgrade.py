@@ -1,7 +1,7 @@
 import os
 import random
 import telebot
-bot = telebot.TeleBot('7538906280:AAFPwuPUs-xfOND3WOS_hqy-IwsoWXejyuA')
+bot = telebot.TeleBot('token')
 facts = ['Honey Never Spoils: Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.',
          'Octopuses Have Three Hearts: Two pump blood to the gills, while the third pumps it to the rest of the body.',
          'Bananas Are Berries: Botanically speaking, bananas qualify as berries, while strawberries do not!',
